@@ -1,26 +1,68 @@
-# Projeto-ES
+# Express-LB
 
-
-# Bernnardo Francisco de Oliveira Silva RA:10435832
-Template para Disciplina de Engenharia de Software
-O repositório define um modelo (template) que deverá ser seguido por cada grupo no projeto.
-
-A seguir, os passos para a preparação do projeto:
-
-Um dos membros do grupo deverá realizar um fork deste repositório.
-O dono do repositório deverá convidar os demais membros do grupo para serem colaboradores.
-O dono do repositório deverá convidar o professor para ser colaborador do repositório.
-O dono do repositório deverá habilitar o GitHub Pages. Basta seguir o procedimento para habilitar o GitHub Pages, lembrando de escolher em Source a opção /docs em lugar da opção /root.
-Cada membro do grupo deverá instalar o Git.
-Para a edição do conteúdo deste projeto, sugere-se que cada membro do grupo faça a instalação do Visual Studio Code com as extensões Markdown All in One e GitHub Pull Requests and Issues. No entanto, cada membro poderá utilizar a IDE de sua preferência.
-Cada membro do grupo deverá clonar o repositório do grupo no seu computador.
-Cada membro do grupo deverá editar o seu próprio nome no arquivo em /docs/index.md, de preferência criando um novo branch e um pull request.
-O dono do repositório deverá editar este arquivo, removendo estas instruções iniciais e preenchendo o restante da página com os dados do projeto do seu grupo.
-Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
-Projeto: <Nome_do_seu_Projeto>
-Grupo: <Nome_do_seu_Grupo>
 Descrição
-<Descrição_resumida_do_projeto>
+Projeto de introdução a engenharia de software, tema: Pizzaria - Pizza-Express
+
+Conteúdo:
+
+ 1 - Autores
+ 
+ 2 - Descrição do Projeto
+ 
+ 3 - Análise de Requisitos Funcionais e Não-Fucionais
+ 
+ 4 - Diagrama de Atividades
+
+ 5 - Diagrama de Casos de Uso
+ 
+ 6 - Descrição dos Casos de Uso
+ 
+ 7 - Diagrama de Senquencia
+ 
+ 8 - Diagrama de Classes
+ 
+ 9 - Diagrama de Estados
+ 
+ 10 - Diagrama de Implantação
+ 
+ 11 - Referências
+
+## 1 - Autores
+### Bernnardo Francisco de Oliveira Silva RA:10435832
+### Lucas Giovannetti Motta Horn RA: 10374691
+
+## 2 - Descrição do Projeto
+<Introdução do projeto>
+
+## 3 - Análise de Requisitos Funcionais e Não-Funcionais
+O sistema precisa:
+1 receber os pedidos
+2 Identificar a loja mais próxima para entrega
+3 Garantir a entrega em 10 a 15 min
+
+Diagrama de Atividades
+<Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.>
+
+Diagrama de Casos de Uso
+<Diagrama para visualizar o comportamento dos atores>
+
+Descrição dos Casos de Uso
+<Descrição do comportamento entre os atores/resquisitos>
+
+Diagrama de Sequência
+<Diagrama de ordem e interação dos objetos>
+
+Diagrama de Classes
+<Diagrama de relacionamento entre classes para os seus atributos e operações>
+
+Diagrama de Estados
+<Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global>
+
+Diagrama de Implantação
+<Diagrama para exibir o relacionamento de hardware e software no projeto>
+
+Referências
+<Lista de referências>
 
 Documentação
 Os arquivos da documentação deste projeto estão na pasta /docs, e o seu conteúdo é publicado em https://.github.io/UML-Classroom-FCI/blob/master/docs/index.md
