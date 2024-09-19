@@ -4,43 +4,67 @@ Descrição
 Projeto de introdução a engenharia de software, tema: Pizzaria - Pizza-Express
 
 Conteúdo:
+- Autores
+  
+- Descrição do Projeto
+ 
+- Análise de Requisitos Funcionais e Não-Fucionais
+ 
+- Diagrama de Atividades
 
- 1 - Autores
+- Diagrama de Casos de Us
  
- 2 - Descrição do Projeto
+- Descrição dos Casos de Uso
  
- 3 - Análise de Requisitos Funcionais e Não-Fucionais
+- Diagrama de Senquencia
  
- 4 - Diagrama de Atividades
+- Diagrama de Classes
+ 
+- Diagrama de Estados
+ 
+- Diagrama de Implantação
+ 
+- Referências
 
- 5 - Diagrama de Casos de Uso
- 
- 6 - Descrição dos Casos de Uso
- 
- 7 - Diagrama de Senquencia
- 
- 8 - Diagrama de Classes
- 
- 9 - Diagrama de Estados
- 
- 10 - Diagrama de Implantação
- 
- 11 - Referências
-
-## 1 - Autores
+## Autores
 ### Bernnardo Francisco de Oliveira Silva RA:10435832
 ### Lucas Giovannetti Motta Horn RA: 10374691
 
-## 2 - Descrição do Projeto
-<Introdução do projeto>
+## Descrição do Projeto
 
-## 3 - Análise de Requisitos Funcionais e Não-Funcionais
-O sistema precisa:
-1 receber os pedidos
-2 Identificar a loja mais próxima para entrega
-3 Garantir a entrega em 10 a 15 min
+ Pizza express tem um concorrente chamada papa-léguas, que esta entregando as pizzas em 30 minutos, prejudicando seus lucros.
+ 
+ O objetivo do projeto é criar um software que identifique a fabridca de pizzas mais próxima do cliente e entregue a pizza entre 10 a 15 minutos
 
-Diagrama de Atividades
+## Análise de Requisitos Funcionais e Não-Funcionais
+O sistema precisa (requisitos funcionais):
+
+ 1 receber os pedidos
+  
+     1.1 De clientes cadastrados e logados
+  
+     1.2 O pedido deve conter 1 ou mais itens do cardápio
+  
+     1.3 Carrinho de compras funcional (remoção, adição e visualização)
+
+ 2 Identificar a loja mais próxima para entrega com base nos dados cadastrados do cliente
+
+ 3 Garantir a entrega em 10 a 15 min
+
+
+Requisitos não funcionais:
+
+ 1 Desempenho
+
+     1.1 Aceitar uma grande quantidade de pedidos de multiplos clientes
+  
+     1.2 Sistema polido com poucos bugs
+
+ 2 Segurança
+  
+     1.1 Garantir segurança dos dados dos clientes e funcionários
+
+## Diagrama de Atividades
 <Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.>
 
 Diagrama de Casos de Uso
