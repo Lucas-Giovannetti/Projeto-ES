@@ -65,7 +65,7 @@ Requisitos não funcionais:
      1.1 Garantir segurança dos dados dos clientes e funcionários
 
 ## Diagrama de Atividades
-<Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.>
+  ![image](https://github.com/user-attachments/assets/4649576b-0727-453c-bd38-4a333d2f0afb)
 
 Diagrama de Casos de Uso
 <Diagrama para visualizar o comportamento dos atores>
