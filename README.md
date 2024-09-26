@@ -67,8 +67,9 @@ Requisitos não funcionais:
 ## Diagrama de Atividades
   ![image](https://github.com/user-attachments/assets/4649576b-0727-453c-bd38-4a333d2f0afb)
 
-Diagrama de Casos de Uso
-<Diagrama para visualizar o comportamento dos atores>
+## Diagrama de Casos de Uso
+![image](https://github.com/user-attachments/assets/9d60049c-96a3-4fe2-ab11-0b91ddefd6d3)
+
 
 Descrição dos Casos de Uso
 <Descrição do comportamento entre os atores/resquisitos>
