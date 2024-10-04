@@ -72,7 +72,13 @@ Requisitos não funcionais:
 
 
 Descrição dos Casos de Uso
-<Descrição do comportamento entre os atores/resquisitos>
+![image](https://github.com/user-attachments/assets/ec767ba0-3dcd-4535-8ed9-b2272d55419f)
+![image](https://github.com/user-attachments/assets/f8cbfc1d-a26b-42d8-8187-1eb16092cbc6)
+![image](https://github.com/user-attachments/assets/b81e755b-598f-492d-88a9-f178f61795e6)
+![image](https://github.com/user-attachments/assets/84c87811-c568-4dff-ba80-751469c499bd)
+![image](https://github.com/user-attachments/assets/bea2a8a0-68b8-4bbf-bd09-4019d2d9c17c)
+![image](https://github.com/user-attachments/assets/55c52e1c-2dac-4dfb-8071-17f34c46d4b6)
+![image](https://github.com/user-attachments/assets/1981e89b-7a7b-48b1-822c-f23859a8b67a)
 
 Diagrama de Sequência
 <Diagrama de ordem e interação dos objetos>
