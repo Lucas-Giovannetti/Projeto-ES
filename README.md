@@ -101,7 +101,7 @@ Os arquivos da documentação deste projeto estão na pasta /docs, e o seu conte
 Releases
 Deverá ser publicado um release ao término de cada entrega do projeto.
 
-
+## N2
 ## Diagrama de Sequência
 
 ![image](https://github.com/user-attachments/assets/3ceaa070-710b-493a-b41c-65ee82e33435)
