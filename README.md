@@ -100,3 +100,37 @@ Os arquivos da documentação deste projeto estão na pasta /docs, e o seu conte
 
 Releases
 Deverá ser publicado um release ao término de cada entrega do projeto.
+
+
+## Diagrama de Sequência
+
+![image](https://github.com/user-attachments/assets/3ceaa070-710b-493a-b41c-65ee82e33435)
+
+
+![image](https://github.com/user-attachments/assets/3db9cbc6-6fde-4cca-8d9a-59f3ade60781)
+
+
+![image](https://github.com/user-attachments/assets/3f712077-ac1d-457a-9572-6a3525fd1fbb)
+
+
+![image](https://github.com/user-attachments/assets/cc09501b-16ea-42ee-9bbe-42bc82060fe3)
+
+
+![image](https://github.com/user-attachments/assets/2d24695f-c26d-427f-a0ca-c3b976f1fb6c)
+
+## Diagrama de Classes
+
+![image](https://github.com/user-attachments/assets/0e472268-b23b-484e-9a0d-23b718371bf9)
+
+## Diagrama de Estados
+
+![image](https://github.com/user-attachments/assets/8fdb1708-ab4a-43a8-8045-5a32d6a149b5)
+
+![image](https://github.com/user-attachments/assets/4b05e2ee-6fe1-4d7f-9058-3c8f290bfca8)
+
+
+## Diagrama de Implantação
+
+![image](https://github.com/user-attachments/assets/470b45a5-aa1e-4e59-a9f0-78e36e8fb540)
+
+
